@@ -1,0 +1,40 @@
+*{font-family:arial;}
+
+hr {
+    background-color: black;
+    height: 2px;
+}
+
+.span1 {
+    font-size: 14px;
+    color:rgb(96,96,96);
+}
+.vid-det {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
+
+#vid-tit {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+#apple {
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 8px;
+    margin-top: 0;
+    padding: 18px;
+}
+#apple-text:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+#course {
+    font-family: verdana;
+    font-size: 16px;    
+}
+
